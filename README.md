@@ -3,7 +3,7 @@ Bài tập về nhà an toàn thông tin
 # MÔN: AN TOÀN VÀ BẢO MẬT THÔNG TIN
 
 
-## 1. THUẬT TOÁN MÃ HÓA HIỆN ĐẠI DES, AES
+## 1. Tìm hiểu thuật toán mã hoá hiện đại DES, AES mô tả đc thuật toán, quy trình mã hoá/giải mã cài đặt AES trên 1 ngôn ngữ lập trình nào đó
 
 ### 1.1. Tổng quan về mã hóa đối xứng
 
@@ -235,7 +235,7 @@ if __name__ == "__main__":
 
 ---
 
-## 2. THUẬT TOÁN MÃ HÓA BẤT ĐỐI XỨNG RSA
+## 2. Tìm hiểu về thuật toán mã hoá bất đối xứng RSA nguyên lý sinh cặp khoá bí mật, công khai
 
 ### 2.1. Giới thiệu
 
@@ -333,7 +333,7 @@ M = 2790^2753 mod 3233 = 65  (khôi phục đúng bản rõ)
 
 ---
 
-## 3. CÁC MÔ HÌNH ÁP DỤNG THUẬT TOÁN RSA
+## 3. Trình bày các mô hình hình áp dụng thuật toán RSA xác thực người gửi, xác thực người nhận, cả 2 so sánh thời gian mã hoá/giải mã của RSA với AES.
 
 Vì RSA có 2 khóa tách biệt (công khai/bí mật), tùy theo **ai giữ khóa nào** và **ai dùng khóa nào để mã hóa**, ta có 3 mô hình ứng dụng chính.
 
