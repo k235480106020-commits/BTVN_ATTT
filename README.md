@@ -1,7 +1,10 @@
-# BTVN_ATTT
-Bài tập về nhà an toàn thông tin
 # MÔN: AN TOÀN VÀ BẢO MẬT THÔNG TIN
 
+Họ và tên: Phan Văn Hải
+
+Lớp: K59.KMT.K01
+
+GVHD: Đỗ Duy Cốp
 
 ## 1. Tìm hiểu thuật toán mã hoá hiện đại DES, AES mô tả đc thuật toán, quy trình mã hoá/giải mã cài đặt AES trên 1 ngôn ngữ lập trình nào đó
 
@@ -220,6 +223,10 @@ if __name__ == "__main__":
     assert message == decrypted_message
     print("\n=> Ma hoa va giai ma thanh cong, du lieu khop 100%.")
 ```
+Kết quả thuật toán 
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/c0dc668e-bc2b-444b-beca-5bd842725573" />
+
 
 #### 1.4.3. Giải thích chương trình
 
